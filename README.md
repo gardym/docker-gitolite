@@ -7,3 +7,6 @@ When your gitolite image is built you want to seed it with a public key to use a
     cp ~/.ssh/id_rsa.pub .
     sudo docker build -t gitolite
         
+### TODO
+
+How does this work again?
